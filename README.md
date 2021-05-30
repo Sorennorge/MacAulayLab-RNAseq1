@@ -23,3 +23,6 @@ Get all "the transporter and pumps" and "the water and ion channels" genes in tw
 
 ### Step 5: "Step 5 - Transport and pumps - Membrane Filtration" & "Step 5 - Water and Ion channels - Membrane Filtration" files
 Filters all the genes in the two files to only contain proteins in plasma membrane
+
+## Source code
+In the interest of open science and reproducibility, all data and source code used in our research is provided here.
