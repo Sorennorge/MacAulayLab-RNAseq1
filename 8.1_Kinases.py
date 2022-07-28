@@ -38,7 +38,7 @@ if not os.path.exists(Folder5):
 else:
     pass
 
-Kinase_list_file = "kinases_ensembl_id_list_KEGG.txt"
+Kinase_list_file = "RegPhos_kinase_rat.txt"
 
 File3_Male = "Sample1_TPM.csv"
 
