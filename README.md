@@ -18,7 +18,7 @@ Use these two files:\
 Use:\
 1.2.RNA_STAR_RNAseq1.sh\
 2.2.RSEM_RNAseq1.sh
-
+## Data analysis ##
 ### 3 - Count Tables with gene information ###
 Requirements:\
 Biomart of Rnor6.0 with Attributes: (was used)\
