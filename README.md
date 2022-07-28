@@ -29,7 +29,7 @@ Use:\
 
 ### 4 - Generate categories - transporters & pumps, and ion & water channels ###
 Requirements:\
-targets_and_families.csv (download: https://www.guidetopharmacology.org/DATA/targets_and_families.csv)
+targets_and_families.csv (download: https://www.guidetopharmacology.org/DATA/targets_and_families.csv)\
 Use:\
 4.1_Categories_Transporters_and_pumps.py\
 4.2_Water_and_ion_channels.py\
